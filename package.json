@@ -1,0 +1,22 @@
+{
+  "name": "vue-static",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "sirv": "^3.0.2",
+    "vite": "^8.3.4"
+  },
+  "dependencies": {
+    "parse5": "^8.0.1",
+    "pug": "^3.0.4",
+    "sass": "^1.105.2",
+    "vue": "^3.5.44"
+  }
+}
