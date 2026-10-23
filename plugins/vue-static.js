@@ -412,7 +412,7 @@ export default function vueStatic(options = {}) {
 
         if (hasLayout) {
             const headAssets = [
-                '<link rel="stylesheet" href="/assets/global.css">',
+                '<link rel="stylesheet" href="assets/global.css">',
                 viteClient,
                 styleTag,
             ]
